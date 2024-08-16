@@ -20,6 +20,7 @@ La pelota está sostenida por una pieza diseñada y fabricada mediante impresió
 
 En la sección de Hardware, se encuentra la placa Archi y un shield diseñado específicamente para el dispositivo. Estos componentes se alimentan mediante cuatro baterías recargables incorporadas en la caja, las cuales son extraíbles para facilitar su recarga. La caja incluye también un interruptor de encendido/apagado (on/off). 
 Este mecanismo está equipado con un sensor que contabiliza los dientes del piñón, permitiendo determinar el momento preciso para detenerse. Además, el sistema está integrado con una aplicación móvil para su monitoreo y control.
+
 ![Imagen del Shield de frente.](https://github.com/NewsanLab/Lanzador-de-pelotas/blob/main/Hardware/ShielArchiK9Top.png)
 ![Imagen del Shield del dorso.](https://github.com/NewsanLab/Lanzador-de-pelotas/blob/main/Hardware/ShielArchiK9Bot.png)
 
