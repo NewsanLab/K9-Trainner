@@ -11,6 +11,9 @@ El mecanismo cuenta con un piñón y una cremallera, las cuales han sido diseña
 Dentro de este sistema, las varillas están equipadas con resortes que se comprimen durante el movimiento de arrastre de la cremallera. Al liberar la cremallera del piñón, la energía acumulada en los resortes se utiliza para lanzar la pelota con fuerza, aprovechando así la energía de compresión generada. 
 La pelota está sostenida por una pieza diseñada y fabricada mediante impresión 3D, que permite una fácil inserción y extracción de la misma. Todos estos componentes, incluidos el porta pelotas, las varillas y el motor, están montados en una estructura base fabricada en acrílico, asegurando la rigidez y estabilidad del sistema, la cual fue diseñada en SolidWorks y cortada por láser para lograr un ajuste preciso y eficiente. Este diseño modular y funcional permite un correcto rendimiento del mecanismo, optimizando la experiencia de entrenamiento para los perros K9.
 
+![Lanzador de pelotas por dentro](https://github.com/NewsanLab/Lanzador-de-pelotas/blob/main/img/Dispositivo%20interior.png)
+
+
 ## Hardware
 
 En la sección de Hardware, se encuentra la placa Archi y un shield diseñado específicamente para el dispositivo. Estos componentes se alimentan mediante cuatro baterías recargables incorporadas en la caja, las cuales son extraíbles para facilitar su recarga. La caja incluye también un interruptor de encendido/apagado (on/off). 
