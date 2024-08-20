@@ -1,5 +1,5 @@
-# LANZADOR DE PELOTAS
-El lanzador de pelotas ha sido diseñado como una solución innovadora para satisfacer las necesidades del servicio penitenciario de Ushuaia, enfocado en optimizar el adiestramiento de los perros K9 especializados en la detección de sustancias ilícitas.
+# K9 Trainner
+Este proyecto ha sido diseñado como una solución innovadora para satisfacer las necesidades del servicio penitenciario de Ushuaia, enfocado en optimizar el adiestramiento de los perros K9 especializados en la detección de sustancias ilícitas.
 El sistema integra un compartimiento donde se pueden colocar diversas muestras de estupefacientes, permitiendo al perro realizar un ejercicio de búsqueda y localización entre múltiples cajas similares. Al identificar correctamente la caja que contiene la muestra marcada, el agente encargado activa un mecanismo a través de una aplicación para dispositivos móviles, conectada mediante tecnología Bluetooth no solo al lanzador, sino también controlada a través de nuestra placa ARCHI.
 
 ARCHI, actúa como el cerebro del sistema, gestionando la comunicación y el control del lanzador. Al recibir la señal de la aplicación móvil, ARCHI activa el mecanismo que permite expulsar de manera controlada la pelota, la cual cumple la función de refuerzo positivo, motivando al perro a asociar el éxito en la detección con una recompensa tangible. Este enfoque no solo mejora la eficacia del entrenamiento, sino que también promueve un método de aprendizaje interactivo y dinámico entre el perro y su manejador.
