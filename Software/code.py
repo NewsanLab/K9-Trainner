@@ -1,7 +1,6 @@
 import digitalio
 import board
 import busio
-import board
 import time
 import simpleio
 import analogio
